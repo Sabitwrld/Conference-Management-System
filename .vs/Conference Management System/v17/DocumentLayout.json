@@ -3,12 +3,112 @@
   "WorkspaceRootPath": "D:\\visual-studio\\Conference Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\feedback\\feedbackeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\feedback\\feedbackeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\feedback\\feedbackcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\feedback\\feedbackcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\feedback\\feedbackvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\feedback\\feedbackvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\notification\\notificationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\notification\\notificationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\notification\\notificationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\notification\\notificationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\notification\\notificationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\notification\\notificationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\organizer\\organizereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\organizer\\organizereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\organizer\\organizercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\organizer\\organizercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\organizer\\organizervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\organizer\\organizervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\location\\locationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\location\\locationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\location\\locationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\location\\locationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\location\\locationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\location\\locationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\eventtype\\eventtypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\eventtype\\eventtypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\eventtype\\eventtypecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\eventtype\\eventtypecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\eventtype\\eventtypeeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\eventtype\\eventtypeeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\participation\\participationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\participation\\participationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\participation\\participationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\participation\\participationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\participation\\participationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\participation\\participationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\invitation\\invitationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\invitation\\invitationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\invitation\\invitationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\invitation\\invitationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\invitation\\invitationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\invitation\\invitationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\person\\personcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\person\\personcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\event\\eventeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\event\\eventeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\event\\eventcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\event\\eventcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\event\\eventvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\event\\eventvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\person\\personeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\person\\personeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\viewmodels\\person\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:viewmodels\\person\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,28 +131,332 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\visual-studio\\Conference Management System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Title": "FeedbackEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Feedback\\FeedbackEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Feedback\\FeedbackEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Feedback\\FeedbackEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Feedback\\FeedbackEditVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:16:29.013Z",
+              "WhenOpened": "2025-06-08T09:00:46.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\visual-studio\\Conference Management System\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAAA2AAAAAAAAAA==",
+              "Title": "FeedbackCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Feedback\\FeedbackCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Feedback\\FeedbackCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Feedback\\FeedbackCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Feedback\\FeedbackCreateVM.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:14:04.693Z",
+              "WhenOpened": "2025-06-08T08:59:47.95Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedbackVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Feedback\\FeedbackVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Feedback\\FeedbackVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Feedback\\FeedbackVM.cs",
+              "RelativeToolTip": "ViewModels\\Feedback\\FeedbackVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:59:32.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Notification\\NotificationEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Notification\\NotificationEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Notification\\NotificationEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Notification\\NotificationEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:56:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Notification\\NotificationCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Notification\\NotificationCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Notification\\NotificationCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Notification\\NotificationCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:56:02.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Notification\\NotificationVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Notification\\NotificationVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Notification\\NotificationVM.cs",
+              "RelativeToolTip": "ViewModels\\Notification\\NotificationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:58:08.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrganizerEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Organizer\\OrganizerEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Organizer\\OrganizerEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Organizer\\OrganizerEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Organizer\\OrganizerEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:56:59.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrganizerCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Organizer\\OrganizerCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Organizer\\OrganizerCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Organizer\\OrganizerCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Organizer\\OrganizerCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:56:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrganizerVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Organizer\\OrganizerVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Organizer\\OrganizerVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Organizer\\OrganizerVM.cs",
+              "RelativeToolTip": "ViewModels\\Organizer\\OrganizerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:56:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Location\\LocationEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Location\\LocationEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Location\\LocationEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Location\\LocationEditVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:55:36.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Location\\LocationCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Location\\LocationCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Location\\LocationCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Location\\LocationCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:55:29.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocationVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Location\\LocationVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Location\\LocationVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Location\\LocationVM.cs",
+              "RelativeToolTip": "ViewModels\\Location\\LocationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:55:23.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventTypeEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\EventType\\EventTypeEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EventType\\EventTypeEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\EventType\\EventTypeEditVM.cs",
+              "RelativeToolTip": "ViewModels\\EventType\\EventTypeEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:53:01.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventTypeCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\EventType\\EventTypeCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EventType\\EventTypeCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\EventType\\EventTypeCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\EventType\\EventTypeCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:52:32.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventTypeVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\EventType\\EventTypeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EventType\\EventTypeVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\EventType\\EventTypeVM.cs",
+              "RelativeToolTip": "ViewModels\\EventType\\EventTypeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:51:56.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParticipationEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Participation\\ParticipationEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Participation\\ParticipationEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Participation\\ParticipationEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Participation\\ParticipationEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:39:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParticipationCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Participation\\ParticipationCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Participation\\ParticipationCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Participation\\ParticipationCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Participation\\ParticipationCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:39:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ParticipationVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Participation\\ParticipationVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Participation\\ParticipationVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Participation\\ParticipationVM.cs",
+              "RelativeToolTip": "ViewModels\\Participation\\ParticipationVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:39:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvitationEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Invitation\\InvitationEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Invitation\\InvitationEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Invitation\\InvitationEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Invitation\\InvitationEditVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:34:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvitationCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Invitation\\InvitationCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Invitation\\InvitationCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Invitation\\InvitationCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Invitation\\InvitationCreateVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:34:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvitationVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Invitation\\InvitationVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Invitation\\InvitationVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Invitation\\InvitationVM.cs",
+              "RelativeToolTip": "ViewModels\\Invitation\\InvitationVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:33:05.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Event\\EventEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Event\\EventEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Event\\EventEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Event\\EventEditVM.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:29:27.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Event\\EventCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Event\\EventCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Event\\EventCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Event\\EventCreateVM.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:28:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Event\\EventVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Event\\EventVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Event\\EventVM.cs",
+              "RelativeToolTip": "ViewModels\\Event\\EventVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:27:51.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersonEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Person\\PersonEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Person\\PersonEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Person\\PersonEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Person\\PersonEditVM.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:26:47.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersonCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Person\\PersonCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Person\\PersonCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Person\\PersonCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Person\\PersonCreateVM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wB8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:24:44.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\ViewModels\\Person\\PersonVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Person\\PersonVM.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\ViewModels\\Person\\PersonVM.cs",
+              "RelativeToolTip": "ViewModels\\Person\\PersonVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:23:40.386Z"
             }
           ]
         }
