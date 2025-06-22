@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vb2pCVw8MjIFvA1XIAIw8IyqQaw1PtdWmFjXpWfdaE4=",
+  "Hash": "ntn/AMUB5szM5Ot0jl0ypv5JbhsL6J+TYp2Wt41PWoc=",
   "Source": "Conference Management System",
   "BasePath": "_content/Conference Management System",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "hhdtz55nuw",
-      "Integrity": "e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=",
+      "Fingerprint": "ngq2qrs44l",
+      "Integrity": "iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\visual-studio\\Conference Management System\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Conference Management System.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "hhdtz55nuw",
-      "Integrity": "e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=",
+      "Fingerprint": "ngq2qrs44l",
+      "Integrity": "iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\visual-studio\\Conference Management System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Conference Management System.bundle.scp.css"
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "2304"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=\""
+          "Value": "\"iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 14:46:28 GMT"
+          "Value": "Sun, 08 Jun 2025 11:56:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,12 +1353,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8="
+          "Value": "sha256-iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU="
         }
       ]
     },
     {
-      "Route": "Conference Management System.hhdtz55nuw.bundle.scp.css",
+      "Route": "Conference Management System.ngq2qrs44l.bundle.scp.css",
       "AssetFile": "D:\\visual-studio\\Conference Management System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Conference Management System.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1368,7 +1368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "2304"
         },
         {
           "Name": "Content-Type",
@@ -1376,11 +1376,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=\""
+          "Value": "\"iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 14:46:28 GMT"
+          "Value": "Sun, 08 Jun 2025 11:56:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1390,7 +1390,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hhdtz55nuw"
+          "Value": "ngq2qrs44l"
         },
         {
           "Name": "label",
@@ -1398,12 +1398,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8="
+          "Value": "sha256-iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU="
         }
       ]
     },
     {
-      "Route": "Conference Management System.hhdtz55nuw.styles.css",
+      "Route": "Conference Management System.ngq2qrs44l.styles.css",
       "AssetFile": "D:\\visual-studio\\Conference Management System\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Conference Management System.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1413,7 +1413,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "2304"
         },
         {
           "Name": "Content-Type",
@@ -1421,11 +1421,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=\""
+          "Value": "\"iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 14:46:28 GMT"
+          "Value": "Sun, 08 Jun 2025 11:56:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1435,7 +1435,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hhdtz55nuw"
+          "Value": "ngq2qrs44l"
         },
         {
           "Name": "label",
@@ -1443,7 +1443,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8="
+          "Value": "sha256-iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU="
         }
       ]
     },
@@ -1458,7 +1458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "2304"
         },
         {
           "Name": "Content-Type",
@@ -1466,11 +1466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=\""
+          "Value": "\"iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 14:46:28 GMT"
+          "Value": "Sun, 08 Jun 2025 11:56:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1480,7 +1480,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8="
+          "Value": "sha256-iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU="
         }
       ]
     },

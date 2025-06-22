@@ -143,6 +143,12 @@ D:\visual-studio\Conference Management System\obj\Debug\net8.0\Conference Manage
 D:\visual-studio\Conference Management System\obj\Debug\net8.0\Conference Management System.genruntimeconfig.cache
 D:\visual-studio\Conference Management System\obj\Debug\net8.0\ref\Conference Management System.dll
 D:\visual-studio\Conference Management System\obj\Debug\net8.0\Conference Management System.sourcelink.json
+D:\visual-studio\Conference Management System\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.Build.dll
 D:\visual-studio\Conference Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll

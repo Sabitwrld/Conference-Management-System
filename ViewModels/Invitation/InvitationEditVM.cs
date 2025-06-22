@@ -17,7 +17,7 @@ namespace Conference_Management_System.ViewModels.Invitation
 
         [Display(Name = "Status")]
         [Required(ErrorMessage = "Status seçilməlidir.")]
-        public InvitationStatus Status { get; set; } = InvitationStatus.Pending;
+        public InvitationStatusEnum Status { get; set; } = InvitationStatusEnum.Pending;
         public IEnumerable<SelectListItem> Events { get; set; } = new List<SelectListItem>();
         public IEnumerable<SelectListItem> Persons { get; set; } = new List<SelectListItem>();
         public IEnumerable<SelectListItem> Statuses { get; set; } = new List<SelectListItem>();

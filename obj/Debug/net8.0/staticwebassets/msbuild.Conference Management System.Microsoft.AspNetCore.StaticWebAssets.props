@@ -1,22 +1,22 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Conference Management System.hhdtz55nuw.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Conference Management System.ngq2qrs44l.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>Conference Management System</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Conference Management System</BasePath>
-      <RelativePath>Conference Management System.hhdtz55nuw.bundle.scp.css</RelativePath>
+      <RelativePath>Conference Management System.ngq2qrs44l.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>hhdtz55nuw</Fingerprint>
-      <Integrity>e88jlbjGi6iDQRrua33NXMudBKYJ8RZ3TSOtpMoJIP8=</Integrity>
+      <Fingerprint>ngq2qrs44l</Fingerprint>
+      <Integrity>iaddz/8Rt3LyMBCBXbAetOyPjgXp+3bAWzMnlnuE4GU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Conference Management System.hhdtz55nuw.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Conference Management System.ngq2qrs44l.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))">
       <SourceType>Package</SourceType>

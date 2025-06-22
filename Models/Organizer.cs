@@ -7,6 +7,7 @@ namespace Conference_Management_System.Models
     {
         public string FullName { get; set; }
         public string Email { get; set; }
-        public ICollection<Event> Events { get; set; } = new List<Event>();
+
+        public ICollection<Event> Events { get; set; }
     }
 }

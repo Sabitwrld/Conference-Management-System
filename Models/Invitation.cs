@@ -6,12 +6,15 @@ namespace Conference_Management_System.Models
 {
     public class Invitation : BaseEntity
     {
-        public int EventId { get; set; } 
-        public int PersonId { get; set; } 
-        public InvitationStatus Status { get; set; } = InvitationStatus.Pending;
-        public DateTime SentAt { get; set; } = DateTime.UtcNow.AddHours(4);
+        public int EventId { get; set; }
         public Event Event { get; set; }
+
+        public int PersonId { get; set; }
         public Person Person { get; set; }
+
+        public InvitationStatusEnum Status { get; set; }
+        public DateTime SentAt { get; set; }
+
         public Participation Participation { get; set; }
     }
 }

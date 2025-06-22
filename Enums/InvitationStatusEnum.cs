@@ -1,9 +1,9 @@
 ﻿namespace Conference_Management_System.Enums
 {
-    public enum InvitationStatus
+    public enum InvitationStatusEnum
     {
         Pending,
         Accepted,
-        Declined
+        Rejected
     }
 }

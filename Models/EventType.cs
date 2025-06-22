@@ -5,7 +5,7 @@ namespace Conference_Management_System.Models
 {
     public class EventType : BaseEntity
     {
-        public EventTypeEnum Name { get; set; }
+        public Enums.EventTypeEnum Name { get; set; }
         public ICollection<Event> Events { get; set; } = new List<Event>();
     }
 }

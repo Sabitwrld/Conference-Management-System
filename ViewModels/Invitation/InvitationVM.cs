@@ -14,7 +14,7 @@ namespace Conference_Management_System.ViewModels.Invitation
         public string PersonFullName { get; set; }
 
         [Display(Name = "Status")]
-        public InvitationStatus Status { get; set; }
+        public InvitationStatusEnum Status { get; set; }
 
         [Display(Name = "Status Adı")]
         public string StatusName => Status.ToString();

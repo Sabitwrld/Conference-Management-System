@@ -1,37 +1,33 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Conference_Management_System.Enums;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 
 namespace Conference_Management_System.ViewModels.Event
 {
     public class EventCreateVM
     {
-        [Display(Name = "Başlıq")]
-        [Required(ErrorMessage = "Başlıq sahəsi boş ola bilməz.")]
+        [Required(ErrorMessage = "Başlıq tələb olunur.")]
         [MaxLength(200)]
         public string Title { get; set; }
-
-        [Display(Name = "Təsvir")]
+        [DataType(DataType.MultilineText)]
         public string Description { get; set; }
-
-        [Display(Name = "Tarix")]
-        [Required(ErrorMessage = "Tarix sahəsi boş ola bilməz.")]
+        [Required(ErrorMessage = "Tarix tələb olunur.")]
         [DataType(DataType.DateTime)]
         public DateTime Date { get; set; }
 
+        [Required(ErrorMessage = "Məkan tələb olunur.")]
         [Display(Name = "Məkan")]
-        [Required(ErrorMessage = "Məkan seçilməlidir.")]
         public int LocationId { get; set; }
+        public IEnumerable<SelectListItem> Locations { get; set; }
 
-        [Display(Name = "Tədbir Növü")]
-        [Required(ErrorMessage = "Tədbir növü seçilməlidir.")]
-        public int EventTypeId { get; set; }
+        [Required(ErrorMessage = "Tədbir tipi tələb olunur.")]
+        [Display(Name = "Tədbir Tipi")]
+        public EventTypeEnum EventType { get; set; }
 
+        [Required(ErrorMessage = "Təşkilatçı tələb olunur.")]
         [Display(Name = "Təşkilatçı")]
-        [Required(ErrorMessage = "Təşkilatçı seçilməlidir.")]
         public int OrganizerId { get; set; }
-        public IEnumerable<SelectListItem> Locations { get; set; } = new List<SelectListItem>();
-        public IEnumerable<SelectListItem> EventTypes { get; set; } = new List<SelectListItem>();
-        public IEnumerable<SelectListItem> Organizers { get; set; } = new List<SelectListItem>();
+        public IEnumerable<SelectListItem> Organizers { get; set; }
     }
 }
 
