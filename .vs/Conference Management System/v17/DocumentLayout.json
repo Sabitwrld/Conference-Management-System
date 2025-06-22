@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\visual-studio\\Conference Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\repositories\\implementations\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:repositories\\implementations\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|d:\\visual-studio\\conference management system\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD91CD5-51B1-481B-974E-1964F50767A6}|Conference Management System.csproj|solutionrelative:profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\Repositories\\Implementations\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\PersonRepository.cs",
-              "ToolTip": "D:\\visual-studio\\Conference Management System\\Repositories\\Implementations\\PersonRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\PersonRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowDsAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T07:08:14.669Z",
+              "WhenOpened": "2025-06-22T08:01:05.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "D:\\visual-studio\\Conference Management System\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CustomProfile.cs",
+              "DocumentMoniker": "D:\\visual-studio\\Conference Management System\\Profiles\\CustomProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\CustomProfile.cs",
+              "ToolTip": "D:\\visual-studio\\Conference Management System\\Profiles\\CustomProfile.cs",
+              "RelativeToolTip": "Profiles\\CustomProfile.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T07:08:11.224Z",
+              "WhenOpened": "2025-06-22T07:54:15.68Z",
               "EditorCaption": ""
             }
           ]

@@ -20,7 +20,7 @@ namespace Conference_Management_System.ViewModels.Person
         public string Phone { get; set; }
 
         [Display(Name = "Rol")]
-        public PersonRole Role { get; set; }
+        public PersonRoleEnum Role { get; set; }
 
         [Display(Name = "Rol Adı")]
         public string RoleName => Role.ToString();

@@ -30,7 +30,7 @@ namespace Conference_Management_System.ViewModels.Person
 
         [Display(Name = "Rol")]
         [Required(ErrorMessage = "Rol sahəsi boş ola bilməz.")]
-        public PersonRole Role { get; set; }
+        public PersonRoleEnum Role { get; set; }
         public IEnumerable<SelectListItem> Roles { get; set; } = new List<SelectListItem>();
     }
 }

@@ -1,6 +1,11 @@
 ﻿using Conference_Management_System.Data;
 using Conference_Management_System.Enums;
 using Conference_Management_System.Models;
+using Conference_Management_System.Profiles;
+using Conference_Management_System.Repositories.Implementations;
+using Conference_Management_System.Repositories.Interfaces;
+using Conference_Management_System.Services.Implementations;
+using Conference_Management_System.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,12 +23,8 @@ namespace Conference_Management_System
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
-            // Identity konfiqurasiyası
-            // AddDefaultIdentity, AddIdentity-nin sadələşdirilmiş versiyasıdır.
-            // AppUser custom olduğu üçün AddIdentity istifadə edirik
             builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
             {
-                // Şifrə tələbləri (təhlükəsizlik üçün)
                 options.Password.RequireDigit = true;
                 options.Password.RequireLowercase = true;
                 options.Password.RequireNonAlphanumeric = true;
@@ -31,14 +32,41 @@ namespace Conference_Management_System
                 options.Password.RequiredLength = 6;
                 options.Password.RequiredUniqueChars = 1;
 
-                // İstifadəçi ayarları
                 options.User.RequireUniqueEmail = true;
 
-                // Giriş ayarları
-                options.SignIn.RequireConfirmedAccount = false; // Email təsdiqini tələb etmir
+                options.SignIn.RequireConfirmedAccount = false;
             })
-                .AddEntityFrameworkStores<AppDbContext>() // DbContext-i təyin edir
-                .AddDefaultTokenProviders(); // Şifrə sıfırlama, email təsdiq kimi tokenlər üçün
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddDefaultTokenProviders();
+
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            builder.Services.AddScoped(typeof(IGenericService<,>), typeof(GenericService<,>));
+
+            builder.Services.AddScoped<IPersonRepository, PersonRepository<Person>>();
+            builder.Services.AddScoped<IPersonService, PersonService>();
+
+            builder.Services.AddScoped<IEventRepository, EventRepository<Event>>();
+            builder.Services.AddScoped<IEventService, EventService>();
+
+            builder.Services.AddScoped<IinvitationRepository, InvitationRepository<Invitation>>();
+            builder.Services.AddScoped<IinvitationService, InvitationService>();
+
+            builder.Services.AddScoped<IParticipationRepository, ParticipationRepository>();
+            builder.Services.AddScoped<IParticipationService, ParticipationService>();
+
+            builder.Services.AddScoped<ILocationRepository, LocationRepository>();
+            builder.Services.AddScoped<ILocationService, LocationService>();
+
+            builder.Services.AddScoped<IOrganizerRepository, OrganizerRepository>();
+            builder.Services.AddScoped<IOrganizerService, OrganizerService>();
+
+            builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
+            builder.Services.AddScoped<INotificationService, NotificationService>();
+
+            builder.Services.AddScoped<IFeedbackRepository, FeedbackRepository>();
+            builder.Services.AddScoped<IFeedbackService, FeedbackService>();
+
+            builder.Services.AddAutoMapper(typeof(CustomProfile).Assembly);
 
             var app = builder.Build();
 

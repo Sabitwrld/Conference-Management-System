@@ -5,9 +5,7 @@ using Conference_Management_System.Services.Interfaces;
 
 namespace Conference_Management_System.Services.Implementations
 {
-    public class GenericService<TVM, TEntity> : IGenericService<TVM, TEntity>
-        where TVM : class
-        where TEntity : BaseEntity, new()
+    public class GenericService<TVM, TEntity> : IGenericService<TVM, TEntity> where TVM : class where TEntity : BaseEntity, new()
     {
         private readonly IGenericRepository<TEntity> _repository;
         private readonly IMapper _mapper;
